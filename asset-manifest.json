@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8ac7584.css",
-    "main.js": "/static/js/main.d5beacca.js",
-    "static/js/787.ee9772bf.chunk.js": "/static/js/787.ee9772bf.chunk.js",
-    "static/media/jm-flag.gif": "/static/media/jm-flag.8b7119ca50d7881a8ff5.gif",
-    "static/media/mx-flag.gif": "/static/media/mx-flag.74155e012742385f8b8c.gif",
-    "static/media/in-flag.gif": "/static/media/in-flag.06234544b5ace968b56d.gif",
-    "index.html": "/index.html",
-    "main.f8ac7584.css.map": "/static/css/main.f8ac7584.css.map",
-    "main.d5beacca.js.map": "/static/js/main.d5beacca.js.map",
-    "787.ee9772bf.chunk.js.map": "/static/js/787.ee9772bf.chunk.js.map"
+    "main.css": "/memory-game/static/css/main.f8ac7584.css",
+    "main.js": "/memory-game/static/js/main.f2f09a5b.js",
+    "static/js/787.ee9772bf.chunk.js": "/memory-game/static/js/787.ee9772bf.chunk.js",
+    "static/media/jm-flag.gif": "/memory-game/static/media/jm-flag.8b7119ca50d7881a8ff5.gif",
+    "static/media/mx-flag.gif": "/memory-game/static/media/mx-flag.74155e012742385f8b8c.gif",
+    "static/media/in-flag.gif": "/memory-game/static/media/in-flag.06234544b5ace968b56d.gif",
+    "index.html": "/memory-game/index.html",
+    "main.f8ac7584.css.map": "/memory-game/static/css/main.f8ac7584.css.map",
+    "main.f2f09a5b.js.map": "/memory-game/static/js/main.f2f09a5b.js.map",
+    "787.ee9772bf.chunk.js.map": "/memory-game/static/js/787.ee9772bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8ac7584.css",
-    "static/js/main.d5beacca.js"
+    "static/js/main.f2f09a5b.js"
   ]
 }
